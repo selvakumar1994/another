@@ -24,7 +24,7 @@ android {
         applicationId "org.another"
         minSdkVersion 16
         targetSdkVersion 25
-        versionCode 20
+        //versionCode 20
         versionName "1.2.0"
     }
 task('increaseVersionCode') << {
